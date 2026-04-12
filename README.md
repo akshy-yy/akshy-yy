@@ -14,7 +14,6 @@
   </span>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=C084FC&center=true&vCenter=true&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Learning+Data+Science;Exploring+Generative+AI" />
 </p>
@@ -28,6 +27,24 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,bootstrap,js,react,nodejs,mongodb,r,matlab,linux,git,github,vscode&perline=6" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">
+  <span style="color:#c084fc;">Badges</span>
+</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/Akshuuuu___">
+    <img src="https://leetcard.jacoblin.cool/Akshuuuu___?theme=dark&font=Baloo&ext=heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google%20Developer%20Groups-Member-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 </p>
 
