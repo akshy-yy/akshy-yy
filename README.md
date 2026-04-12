@@ -22,7 +22,7 @@
 ---
 
 <h2 align="center">
-  <span style="color:#c084fc;">💻 My Skills</span>
+  <span style="color:#c084fc;">My Skills</span>
 </h2>
 
 <p align="center">
@@ -46,7 +46,7 @@
 ---
 
 <h2 align="center">
-  <span style="color:#c084fc;">🎯 Focus</span>
+  <span style="color:#c084fc;">Focus</span>
 </h2>
 
 <p align="center">
