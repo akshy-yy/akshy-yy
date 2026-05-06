@@ -4,7 +4,8 @@
 
 <h3 align="center">
   <span style="color:#a78bfa;">
-     Engineering Student | Full Stack Developer | Open Source Contributor GSSoC 26 NSoC 26 ELUSoC 26| Data Science Explorer | Gen AI & ML Enthusiast
+     Engineering Student | Full Stack Developer | Open Source Contributor GSSoC 26 NSoC 26 ELUSoC 26| 
+     Data Science Explorer | Gen AI & ML Enthusiast
   </span>
 </h3>
 
