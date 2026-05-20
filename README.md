@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,bootstrap,js,react,nodejs,mongodb,r,matlab,arduino,linux,git,github,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,react,reactjs,nodejs,mongodb,bootstrap,r,rstdio,matlab,arduino,linux,git,github,vscode&perline=6" />
   </a>
 </p>
 
